@@ -54,7 +54,7 @@ a {
 /* banner__bg */
 
 .header__banner {
-    background-image: url(../Food_japan/img/banner__header__bg.png);
+    background-image: url(img/banner__header__bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -150,7 +150,7 @@ a {
 /*main__banner  */
 
 .main__banner {
-    background-image: url(../Food_japan/img/main__banner1.png);
+    background-image: url(img/main__banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 776px;
@@ -225,7 +225,7 @@ a {
 /* main__banner2 */
 
 .main__banner2 {
-    background-image: url(../Food_japan/img/main__banner3.png);
+    background-image: url(img/main__banner3.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
